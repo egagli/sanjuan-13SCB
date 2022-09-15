@@ -1,0 +1,399 @@
+{
+  "type": "Catalog",
+  "id": "2020",
+  "stac_version": "1.0.0",
+  "description": "Catalog of items from 13SCB with id 2020",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20200902_13SCB_DSC/S1A_20200902_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20200907_13SCB_DSC/S1A_20200907_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20200914_13SCB_DSC/S1A_20200914_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20200919_13SCB_DSC/S1A_20200919_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20200926_13SCB_DSC/S1A_20200926_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201001_13SCB_DSC/S1A_20201001_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201008_13SCB_DSC/S1A_20201008_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201013_13SCB_DSC/S1A_20201013_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201020_13SCB_DSC/S1A_20201020_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201025_13SCB_DSC/S1A_20201025_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201106_13SCB_DSC/S1A_20201106_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201113_13SCB_DSC/S1A_20201113_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201118_13SCB_DSC/S1A_20201118_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201125_13SCB_DSC/S1A_20201125_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201130_13SCB_DSC/S1A_20201130_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201207_13SCB_DSC/S1A_20201207_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201212_13SCB_DSC/S1A_20201212_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201219_13SCB_DSC/S1A_20201219_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201224_13SCB_DSC/S1A_20201224_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1A_20201231_13SCB_DSC/S1A_20201231_13SCB_DSC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200105_13SCB_ASC/S1B_20200105_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200112_13SCB_ASC/S1B_20200112_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200117_13SCB_ASC/S1B_20200117_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200124_13SCB_ASC/S1B_20200124_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200129_13SCB_ASC/S1B_20200129_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200210_13SCB_ASC/S1B_20200210_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200222_13SCB_ASC/S1B_20200222_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200229_13SCB_ASC/S1B_20200229_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200305_13SCB_ASC/S1B_20200305_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200312_13SCB_ASC/S1B_20200312_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200317_13SCB_ASC/S1B_20200317_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200329_13SCB_ASC/S1B_20200329_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200405_13SCB_ASC/S1B_20200405_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200410_13SCB_ASC/S1B_20200410_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200417_13SCB_ASC/S1B_20200417_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200422_13SCB_ASC/S1B_20200422_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200429_13SCB_ASC/S1B_20200429_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200504_13SCB_ASC/S1B_20200504_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200511_13SCB_ASC/S1B_20200511_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200516_13SCB_ASC/S1B_20200516_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200523_13SCB_ASC/S1B_20200523_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200528_13SCB_ASC/S1B_20200528_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200609_13SCB_ASC/S1B_20200609_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200616_13SCB_ASC/S1B_20200616_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200621_13SCB_ASC/S1B_20200621_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200628_13SCB_ASC/S1B_20200628_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200710_13SCB_ASC/S1B_20200710_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200715_13SCB_ASC/S1B_20200715_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200722_13SCB_ASC/S1B_20200722_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200727_13SCB_ASC/S1B_20200727_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200803_13SCB_ASC/S1B_20200803_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200808_13SCB_ASC/S1B_20200808_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200815_13SCB_ASC/S1B_20200815_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200820_13SCB_ASC/S1B_20200820_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200827_13SCB_ASC/S1B_20200827_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200901_13SCB_ASC/S1B_20200901_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200908_13SCB_ASC/S1B_20200908_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200913_13SCB_ASC/S1B_20200913_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200920_13SCB_ASC/S1B_20200920_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20200925_13SCB_ASC/S1B_20200925_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201002_13SCB_ASC/S1B_20201002_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201007_13SCB_ASC/S1B_20201007_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201014_13SCB_ASC/S1B_20201014_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201019_13SCB_ASC/S1B_20201019_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201026_13SCB_ASC/S1B_20201026_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201031_13SCB_ASC/S1B_20201031_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201107_13SCB_ASC/S1B_20201107_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201112_13SCB_ASC/S1B_20201112_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201119_13SCB_ASC/S1B_20201119_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201124_13SCB_ASC/S1B_20201124_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201201_13SCB_ASC/S1B_20201201_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201206_13SCB_ASC/S1B_20201206_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201213_13SCB_ASC/S1B_20201213_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201218_13SCB_ASC/S1B_20201218_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201225_13SCB_ASC/S1B_20201225_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./S1B_20201230_13SCB_ASC/S1B_20201230_13SCB_ASC.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "stac_extensions": []
+}
